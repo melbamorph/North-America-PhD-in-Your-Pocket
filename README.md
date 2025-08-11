@@ -16,6 +16,6 @@ npm run build
 
 ## Live
 
-https://<user>.github.io/North-America-PhD-in-Your-Pocket/
-
+[https://<user>.github.io/North-America-PhD-in-Your-Pocket/
+](https://github.com/melbamorph/North-America-PhD-in-Your-Pocket/deployments/github-pages)
 Data is loaded at runtime from `/data` TopoJSON files.
