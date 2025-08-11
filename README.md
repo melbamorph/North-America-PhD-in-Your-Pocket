@@ -1,6 +1,6 @@
 # North-America-PhD-in-Your-Pocket
 
-Interactive map of North America highlighting countries, states, and national capitals.
+A  GPT-5 test map of North America highlighting countries, states, and capitals. 
 
 ## Development
 
