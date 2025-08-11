@@ -1,11 +1,10 @@
 # North-America-PhD-in-Your-Pocket
 
-A  GPT-5 test map of North America highlighting countries, states, and capitals. 
+A client-only React Leaflet map of North America highlighting countries, states, and capitals.
 
 ## Development
 
 ```bash
-npm install
 npm run dev
 ```
 
@@ -15,4 +14,8 @@ npm run dev
 npm run build
 ```
 
-The site is automatically deployed to GitHub Pages via GitHub Actions on every push to `main`.
+## Live
+
+https://<user>.github.io/North-America-PhD-in-Your-Pocket/
+
+Data is loaded at runtime from `/data` TopoJSON files.
